@@ -1,3 +1,6 @@
 # annoying files
 .DS_Store
 Thumbs.db
+
+# large files to ignore
+./audio/david-cooper-17-20.wav

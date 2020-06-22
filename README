@@ -1,3 +1,12 @@
 A project for horn acoustics analysis with machine learning
 
+
+
 **Currently a work in progress**
+
+Basic learning resources
+ * https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+
+Audio specific
+ * https://www.youtube.com/watch?v=QEEBNF0aeeg
+ * https://developer.apple.com/documentation/soundanalysis
